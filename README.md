@@ -33,3 +33,8 @@ NumPy, Matplotlib, and Pandas for data handling and visualization
 
 #ouptut
 
+![Image](https://github.com/user-attachments/assets/297d2a2f-68fa-49ab-93da-3184a4b98367)
+
+![Image](https://github.com/user-attachments/assets/bcbf54f9-4221-4546-adac-3371c5309afa)
+
+![Image](https://github.com/user-attachments/assets/53bdf6a0-3dc3-4420-b593-dde817fd5ad4)
